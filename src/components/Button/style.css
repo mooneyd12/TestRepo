@@ -1,0 +1,22 @@
+.button {
+    width: 150px;
+    height: 50px;
+    border: none;
+    color: black;
+    border-radius: 25px;
+}
+
+.red {
+    background: red;
+    color: white
+}
+
+.blue {
+    background: blue;
+    color: white;
+}
+
+.green {
+    background: green;
+    color: white;
+}
